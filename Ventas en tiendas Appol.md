@@ -1,16 +1,14 @@
 # <p align="center"> Ventas en tiendas Appol </p>
 
 ## Objetivo
-<p alig='justufy'>
-A través de este informe, se busca analizar el desempeño de las ventas de la empresa durante el año 2017 al 2019, 
+<p align="justify">A través de este informe, se busca analizar el desempeño de las ventas de la empresa durante el año 2017 al 2019, 
 desglosando por continentes, márgenes, año y trimestre, para así proporcionar recomendaciones para mejorar el 
-rendimiento de la empresa en cada uno de ellos. 
-</p>
+rendimiento de la empresa en cada uno de ellos.</p>
 
 ## Modelo de datos
 ![Modelo de datos](https://user-images.githubusercontent.com/106001221/236519514-03f6b706-d8be-46ed-9ef8-818e8030d819.png)
 
-## Análisis de ventas
+## Análisis Dax
 #### Total ingresos
 TotalIngresos = SUM('Tabla Datos'[Ingresos])
 #### Total Gastos
